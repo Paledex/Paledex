@@ -8,8 +8,9 @@
         <outputRelativeToContentRoot value="true" />
         <module name="paledex-client" />
         <module name="paledex-lineage" />
-        <module name="paledex-scheduler" />
         <module name="paledex-collect" />
+        <module name="paledex-scheduler" />
+        <module name="paledex-metadata" />
         <module name="paledex-ui" />
       </profile>
     </annotationProcessing>
@@ -17,6 +18,7 @@
       <module name="paledex-client" target="1.5" />
       <module name="paledex-collect" target="1.5" />
       <module name="paledex-lineage" target="1.5" />
+      <module name="paledex-metadata" target="1.5" />
       <module name="paledex-scheduler" target="1.5" />
       <module name="paledex-ui" target="1.5" />
     </bytecodeTargetLevel>

@@ -11,6 +11,7 @@
         <option value="$PROJECT_DIR$/paledex-collect/pom.xml" />
         <option value="$PROJECT_DIR$/paledex-lineage/pom.xml" />
         <option value="$PROJECT_DIR$/paledex-scheduler/pom.xml" />
+        <option value="$PROJECT_DIR$/paledex-metadata/pom.xml" />
       </list>
     </option>
   </component>
