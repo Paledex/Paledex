@@ -4,12 +4,6 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/Paledex.iml" filepath="$PROJECT_DIR$/.idea/Paledex.iml" />
       <module fileurl="file://$PROJECT_DIR$/docker.iml" filepath="$PROJECT_DIR$/docker.iml" />
-      <module fileurl="file://$PROJECT_DIR$/paledex-client/paledex-client.iml" filepath="$PROJECT_DIR$/paledex-client/paledex-client.iml" />
-      <module fileurl="file://$PROJECT_DIR$/paledex-collect/paledex-collect.iml" filepath="$PROJECT_DIR$/paledex-collect/paledex-collect.iml" />
-      <module fileurl="file://$PROJECT_DIR$/paledex-lineage/paledex-lineage.iml" filepath="$PROJECT_DIR$/paledex-lineage/paledex-lineage.iml" />
-      <module fileurl="file://$PROJECT_DIR$/paledex-metadata/paledex-metadata.iml" filepath="$PROJECT_DIR$/paledex-metadata/paledex-metadata.iml" />
-      <module fileurl="file://$PROJECT_DIR$/paledex-scheduler/paledex-scheduler.iml" filepath="$PROJECT_DIR$/paledex-scheduler/paledex-scheduler.iml" />
-      <module fileurl="file://$PROJECT_DIR$/paledex-ui/paledex-ui.iml" filepath="$PROJECT_DIR$/paledex-ui/paledex-ui.iml" />
     </modules>
   </component>
 </project>

@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/paledex-graphdb" />
+  </component>
   <component name="JavaScriptSettings">
     <option name="languageLevel" value="ES6" />
   </component>
@@ -12,6 +16,9 @@
         <option value="$PROJECT_DIR$/paledex-lineage/pom.xml" />
         <option value="$PROJECT_DIR$/paledex-scheduler/pom.xml" />
         <option value="$PROJECT_DIR$/paledex-metadata/pom.xml" />
+        <option value="$PROJECT_DIR$/paledex-graphdb/pom.xml" />
+        <option value="$PROJECT_DIR$/paledex-resource/pom.xml" />
+        <option value="$PROJECT_DIR$/paledex-search/pom.xml" />
       </list>
     </option>
   </component>
